@@ -1,0 +1,77 @@
+.navbarScroll.navbarDark, nav {
+  background-color: #000;
+}
+
+.bgimage {
+  background: url("programimage.97e6076a.jpeg") 0 0 / cover;
+  height: 100vh;
+  position: relative;
+}
+
+.hero_title {
+  font-size: 4.5rem;
+}
+
+.hero_desc {
+  font-size: 2rem;
+}
+
+.hero-text {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#contact {
+  padding-bottom: 4rem;
+}
+
+.imageAboutPage {
+  width: 85%;
+}
+
+.servicesText.card {
+  cursor: pointer;
+  height: 280px;
+}
+
+.servicesIcon {
+  text-align: center;
+  width: 100%;
+  font-size: 36px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card:hover .servicesIcon {
+  color: green;
+}
+
+.servicesText:hover {
+  border: 1px solid green;
+}
+
+.social-icons {
+  cursor: pointer;
+  font-size: 36px;
+}
+
+.fa-facebook:hover, .fa-instagram:hover, .fa-linkedin:hover, .fa-twitch:hover {
+  color: green;
+}
+
+.fab {
+  color: #000;
+}
+
+#footer {
+  text-align: center;
+  background-color: gray;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
